@@ -1,2 +1,2 @@
 # DevOps-CI-CD-Examples
-Some pipeline examples
+Some pipeline examples are the best
